@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "997656256322",
+    "firebase_url": "https://fir-a0240.firebaseio.com",
+    "project_id": "fir-a0240",
+    "storage_bucket": "fir-a0240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997656256322:android:3af5e634a84441528f72db",
+        "android_client_info": {
+          "package_name": "com.example.cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997656256322-ifgklqj301n1cd7vomc5n1ne0vb3vlht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHIWez9AhdyKdyzH9ROqEHJp2Hbu8Etc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997656256322-ifgklqj301n1cd7vomc5n1ne0vb3vlht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997656256322:android:caa62999e27539188f72db",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997656256322-ifgklqj301n1cd7vomc5n1ne0vb3vlht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHIWez9AhdyKdyzH9ROqEHJp2Hbu8Etc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997656256322-ifgklqj301n1cd7vomc5n1ne0vb3vlht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997656256322:android:bbe3a528561240798f72db",
+        "android_client_info": {
+          "package_name": "com.example.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997656256322-ifgklqj301n1cd7vomc5n1ne0vb3vlht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHIWez9AhdyKdyzH9ROqEHJp2Hbu8Etc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997656256322-ifgklqj301n1cd7vomc5n1ne0vb3vlht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
